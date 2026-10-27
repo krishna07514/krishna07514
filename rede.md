@@ -15,6 +15,32 @@ A passionate problem solver exploring the world of Data Structures, Algorithms, 
 ## Codolio Profile
 - 🔗 Visit my Codolio profile: [Kanhaa](https://codolio.com/profile/kanhaa)
 
+## DSA Progress
+### ✅ Completed
+- Arrays
+- Strings
+- Hashing
+- Sorting & Searching
+- Recursion
+- Basic Greedy Problems
+- Stack & Queue
+
+### 🔄 In Progress
+- Linked Lists
+- Trees
+- Binary Search Trees
+- Graph Traversal
+- Dynamic Programming
+- Bit Manipulation
+
+### ⏳ Planned Next
+- Heaps & Priority Queues
+- Trie
+- Graph Algorithms
+- Advanced DP
+- Backtracking
+- System Design fundamentals
+
 ## Current Focus
 - 🧩 DSA practice and pattern recognition
 - ⚙️ Competitive programming and logical thinking
